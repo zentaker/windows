@@ -6,3 +6,5 @@ prueva
 
 - prueva 2
 - desde atom
+
+- desde atom de windows
